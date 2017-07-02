@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-hi branched!
-=======
+﻿hi branched!
 hi tst branch!
->>>>>>> 실험
